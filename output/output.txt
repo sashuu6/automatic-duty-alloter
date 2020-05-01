@@ -1,0 +1,843 @@
+============================================
+Call Centre Duty Allotment for JPHN Trainees
+============================================
+
+-------------------------------
+Day - 1 (02 May 2020 Saturday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Aishwariya U
+2. Amrutha A
+3. Akhila Raj B R
+4. Amrutha K
+5. Vidya M G
+6. Arsha K Reghu
+7. Anjana K M
+8. Minooliya A
+
+Noon Batch
+
+1. Anujamol K
+2. Neethu K
+3. Aswathi P R
+4. Ashwathy P N
+5. Reshmi K
+6. Athira A K
+7. Ashwathy K S
+8. Shilpa K K
+
+-------------------------------
+Day - 2 (03 May 2020 Sunday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Rahna I K
+2. Sneha Ravindran
+3. Athira Radhakrishnan
+4. Swathy K
+5. Suryamol T
+6. Needhu Das P
+7. Aishwariya U
+8. Amrutha A
+
+Noon Batch
+
+1. Amrutha K
+2. Vidya M G
+3. Neena M P
+4. Anjana K M
+5. Minooliya A
+6. Swapna K
+7. Anujamol K
+8. Neethu K
+
+-------------------------------
+Day - 3 (04 May 2020 Monday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Ashwathy P N
+2. Reshmi K
+3. Surya S P
+4. Ashwathy K S
+5. Shilpa K K
+6. Sajina Narayanan
+7. Rahna I K
+8. Sneha Ravindran
+
+Noon Batch
+
+1. Swathy K
+2. Suryamol T
+3. Sukanya K S
+4. Aishwariya U
+5. Amrutha A
+6. Rohini K S
+7. Amrutha K
+8. Vidya M G
+
+-------------------------------
+Day - 4 (05 May 2020 Tuesday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Anjana K M
+2. Minooliya A
+3. Akhila Raj B R
+4. Anujamol K
+5. Neethu K
+6. Arsha K Reghu
+7. Ashwathy P N
+8. Reshmi K
+
+Noon Batch
+
+1. Ashwathy K S
+2. Shilpa K K
+3. Aswathi P R
+4. Rahna I K
+5. Sneha Ravindran
+6. Athira A K
+7. Swathy K
+8. Suryamol T
+
+-------------------------------
+Day - 5 (06 May 2020 Wednesday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Aishwariya U
+2. Amrutha A
+3. Athira Radhakrishnan
+4. Amrutha K
+5. Vidya M G
+6. Needhu Das P
+7. Anjana K M
+8. Minooliya A
+
+Noon Batch
+
+1. Anujamol K
+2. Neethu K
+3. Neena M P
+4. Ashwathy P N
+5. Reshmi K
+6. Swapna K
+7. Ashwathy K S
+8. Shilpa K K
+
+-------------------------------
+Day - 6 (07 May 2020 Thursday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Rahna I K
+2. Sneha Ravindran
+3. Surya S P
+4. Swathy K
+5. Suryamol T
+6. Sajina Narayanan
+7. Aishwariya U
+8. Amrutha A
+
+Noon Batch
+
+1. Amrutha K
+2. Vidya M G
+3. Sukanya K S
+4. Anjana K M
+5. Minooliya A
+6. Rohini K S
+7. Anujamol K
+8. Neethu K
+
+-------------------------------
+Day - 7 (08 May 2020 Friday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Ashwathy P N
+2. Reshmi K
+3. Akhila Raj B R
+4. Ashwathy K S
+5. Shilpa K K
+6. Arsha K Reghu
+7. Rahna I K
+8. Sneha Ravindran
+
+Noon Batch
+
+1. Swathy K
+2. Suryamol T
+3. Aswathi P R
+4. Aishwariya U
+5. Amrutha A
+6. Athira A K
+7. Amrutha K
+8. Vidya M G
+
+-------------------------------
+Day - 8 (09 May 2020 Saturday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Anjana K M
+2. Minooliya A
+3. Athira Radhakrishnan
+4. Anujamol K
+5. Neethu K
+6. Needhu Das P
+7. Ashwathy P N
+8. Reshmi K
+
+Noon Batch
+
+1. Ashwathy K S
+2. Shilpa K K
+3. Neena M P
+4. Rahna I K
+5. Sneha Ravindran
+6. Swapna K
+7. Swathy K
+8. Suryamol T
+
+-------------------------------
+Day - 9 (10 May 2020 Sunday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Aishwariya U
+2. Amrutha A
+3. Surya S P
+4. Amrutha K
+5. Vidya M G
+6. Sajina Narayanan
+7. Anjana K M
+8. Minooliya A
+
+Noon Batch
+
+1. Anujamol K
+2. Neethu K
+3. Sukanya K S
+4. Ashwathy P N
+5. Reshmi K
+6. Rohini K S
+7. Ashwathy K S
+8. Shilpa K K
+
+-------------------------------
+Day - 10 (11 May 2020 Monday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Rahna I K
+2. Sneha Ravindran
+3. Akhila Raj B R
+4. Swathy K
+5. Suryamol T
+6. Arsha K Reghu
+7. Aishwariya U
+8. Amrutha A
+
+Noon Batch
+
+1. Amrutha K
+2. Vidya M G
+3. Aswathi P R
+4. Anjana K M
+5. Minooliya A
+6. Athira A K
+7. Anujamol K
+8. Neethu K
+
+-------------------------------
+Day - 11 (12 May 2020 Tuesday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Ashwathy P N
+2. Reshmi K
+3. Athira Radhakrishnan
+4. Ashwathy K S
+5. Shilpa K K
+6. Needhu Das P
+7. Rahna I K
+8. Sneha Ravindran
+
+Noon Batch
+
+1. Swathy K
+2. Suryamol T
+3. Neena M P
+4. Aishwariya U
+5. Amrutha A
+6. Swapna K
+7. Amrutha K
+8. Vidya M G
+
+-------------------------------
+Day - 12 (13 May 2020 Wednesday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Anjana K M
+2. Minooliya A
+3. Surya S P
+4. Anujamol K
+5. Neethu K
+6. Sajina Narayanan
+7. Ashwathy P N
+8. Reshmi K
+
+Noon Batch
+
+1. Ashwathy K S
+2. Shilpa K K
+3. Sukanya K S
+4. Rahna I K
+5. Sneha Ravindran
+6. Rohini K S
+7. Swathy K
+8. Suryamol T
+
+-------------------------------
+Day - 13 (14 May 2020 Thursday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Aishwariya U
+2. Amrutha A
+3. Akhila Raj B R
+4. Amrutha K
+5. Vidya M G
+6. Arsha K Reghu
+7. Anjana K M
+8. Minooliya A
+
+Noon Batch
+
+1. Anujamol K
+2. Neethu K
+3. Aswathi P R
+4. Ashwathy P N
+5. Reshmi K
+6. Athira A K
+7. Ashwathy K S
+8. Shilpa K K
+
+-------------------------------
+Day - 14 (15 May 2020 Friday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Rahna I K
+2. Sneha Ravindran
+3. Athira Radhakrishnan
+4. Swathy K
+5. Suryamol T
+6. Needhu Das P
+7. Aishwariya U
+8. Amrutha A
+
+Noon Batch
+
+1. Amrutha K
+2. Vidya M G
+3. Neena M P
+4. Anjana K M
+5. Minooliya A
+6. Swapna K
+7. Anujamol K
+8. Neethu K
+
+-------------------------------
+Day - 15 (16 May 2020 Saturday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Ashwathy P N
+2. Reshmi K
+3. Surya S P
+4. Ashwathy K S
+5. Shilpa K K
+6. Sajina Narayanan
+7. Rahna I K
+8. Sneha Ravindran
+
+Noon Batch
+
+1. Swathy K
+2. Suryamol T
+3. Sukanya K S
+4. Aishwariya U
+5. Amrutha A
+6. Rohini K S
+7. Amrutha K
+8. Vidya M G
+
+-------------------------------
+Day - 16 (17 May 2020 Sunday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Anjana K M
+2. Minooliya A
+3. Akhila Raj B R
+4. Anujamol K
+5. Neethu K
+6. Arsha K Reghu
+7. Ashwathy P N
+8. Reshmi K
+
+Noon Batch
+
+1. Ashwathy K S
+2. Shilpa K K
+3. Aswathi P R
+4. Rahna I K
+5. Sneha Ravindran
+6. Athira A K
+7. Swathy K
+8. Suryamol T
+
+-------------------------------
+Day - 17 (18 May 2020 Monday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Aishwariya U
+2. Amrutha A
+3. Athira Radhakrishnan
+4. Amrutha K
+5. Vidya M G
+6. Needhu Das P
+7. Anjana K M
+8. Minooliya A
+
+Noon Batch
+
+1. Anujamol K
+2. Neethu K
+3. Neena M P
+4. Ashwathy P N
+5. Reshmi K
+6. Swapna K
+7. Ashwathy K S
+8. Shilpa K K
+
+-------------------------------
+Day - 18 (19 May 2020 Tuesday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Rahna I K
+2. Sneha Ravindran
+3. Surya S P
+4. Swathy K
+5. Suryamol T
+6. Sajina Narayanan
+7. Aishwariya U
+8. Amrutha A
+
+Noon Batch
+
+1. Amrutha K
+2. Vidya M G
+3. Sukanya K S
+4. Anjana K M
+5. Minooliya A
+6. Rohini K S
+7. Anujamol K
+8. Neethu K
+
+-------------------------------
+Day - 19 (20 May 2020 Wednesday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Ashwathy P N
+2. Reshmi K
+3. Akhila Raj B R
+4. Ashwathy K S
+5. Shilpa K K
+6. Arsha K Reghu
+7. Rahna I K
+8. Sneha Ravindran
+
+Noon Batch
+
+1. Swathy K
+2. Suryamol T
+3. Aswathi P R
+4. Aishwariya U
+5. Amrutha A
+6. Athira A K
+7. Amrutha K
+8. Vidya M G
+
+-------------------------------
+Day - 20 (21 May 2020 Thursday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Anjana K M
+2. Minooliya A
+3. Athira Radhakrishnan
+4. Anujamol K
+5. Neethu K
+6. Needhu Das P
+7. Ashwathy P N
+8. Reshmi K
+
+Noon Batch
+
+1. Ashwathy K S
+2. Shilpa K K
+3. Neena M P
+4. Rahna I K
+5. Sneha Ravindran
+6. Swapna K
+7. Swathy K
+8. Suryamol T
+
+-------------------------------
+Day - 21 (22 May 2020 Friday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Aishwariya U
+2. Amrutha A
+3. Surya S P
+4. Amrutha K
+5. Vidya M G
+6. Sajina Narayanan
+7. Anjana K M
+8. Minooliya A
+
+Noon Batch
+
+1. Anujamol K
+2. Neethu K
+3. Sukanya K S
+4. Ashwathy P N
+5. Reshmi K
+6. Rohini K S
+7. Ashwathy K S
+8. Shilpa K K
+
+-------------------------------
+Day - 22 (23 May 2020 Saturday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Rahna I K
+2. Sneha Ravindran
+3. Akhila Raj B R
+4. Swathy K
+5. Suryamol T
+6. Arsha K Reghu
+7. Aishwariya U
+8. Amrutha A
+
+Noon Batch
+
+1. Amrutha K
+2. Vidya M G
+3. Aswathi P R
+4. Anjana K M
+5. Minooliya A
+6. Athira A K
+7. Anujamol K
+8. Neethu K
+
+-------------------------------
+Day - 23 (24 May 2020 Sunday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Ashwathy P N
+2. Reshmi K
+3. Athira Radhakrishnan
+4. Ashwathy K S
+5. Shilpa K K
+6. Needhu Das P
+7. Rahna I K
+8. Sneha Ravindran
+
+Noon Batch
+
+1. Swathy K
+2. Suryamol T
+3. Neena M P
+4. Aishwariya U
+5. Amrutha A
+6. Swapna K
+7. Amrutha K
+8. Vidya M G
+
+-------------------------------
+Day - 24 (25 May 2020 Monday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Anjana K M
+2. Minooliya A
+3. Surya S P
+4. Anujamol K
+5. Neethu K
+6. Sajina Narayanan
+7. Ashwathy P N
+8. Reshmi K
+
+Noon Batch
+
+1. Ashwathy K S
+2. Shilpa K K
+3. Sukanya K S
+4. Rahna I K
+5. Sneha Ravindran
+6. Rohini K S
+7. Swathy K
+8. Suryamol T
+
+-------------------------------
+Day - 25 (26 May 2020 Tuesday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Aishwariya U
+2. Amrutha A
+3. Akhila Raj B R
+4. Amrutha K
+5. Vidya M G
+6. Arsha K Reghu
+7. Anjana K M
+8. Minooliya A
+
+Noon Batch
+
+1. Anujamol K
+2. Neethu K
+3. Aswathi P R
+4. Ashwathy P N
+5. Reshmi K
+6. Athira A K
+7. Ashwathy K S
+8. Shilpa K K
+
+-------------------------------
+Day - 26 (27 May 2020 Wednesday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Rahna I K
+2. Sneha Ravindran
+3. Athira Radhakrishnan
+4. Swathy K
+5. Suryamol T
+6. Needhu Das P
+7. Aishwariya U
+8. Amrutha A
+
+Noon Batch
+
+1. Amrutha K
+2. Vidya M G
+3. Neena M P
+4. Anjana K M
+5. Minooliya A
+6. Swapna K
+7. Anujamol K
+8. Neethu K
+
+-------------------------------
+Day - 27 (28 May 2020 Thursday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Ashwathy P N
+2. Reshmi K
+3. Surya S P
+4. Ashwathy K S
+5. Shilpa K K
+6. Sajina Narayanan
+7. Rahna I K
+8. Sneha Ravindran
+
+Noon Batch
+
+1. Swathy K
+2. Suryamol T
+3. Sukanya K S
+4. Aishwariya U
+5. Amrutha A
+6. Rohini K S
+7. Amrutha K
+8. Vidya M G
+
+-------------------------------
+Day - 28 (29 May 2020 Friday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Anjana K M
+2. Minooliya A
+3. Akhila Raj B R
+4. Anujamol K
+5. Neethu K
+6. Arsha K Reghu
+7. Ashwathy P N
+8. Reshmi K
+
+Noon Batch
+
+1. Ashwathy K S
+2. Shilpa K K
+3. Aswathi P R
+4. Rahna I K
+5. Sneha Ravindran
+6. Athira A K
+7. Swathy K
+8. Suryamol T
+
+-------------------------------
+Day - 29 (30 May 2020 Saturday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Aishwariya U
+2. Amrutha A
+3. Athira Radhakrishnan
+4. Amrutha K
+5. Vidya M G
+6. Needhu Das P
+7. Anjana K M
+8. Minooliya A
+
+Noon Batch
+
+1. Anujamol K
+2. Neethu K
+3. Neena M P
+4. Ashwathy P N
+5. Reshmi K
+6. Swapna K
+7. Ashwathy K S
+8. Shilpa K K
+
+-------------------------------
+Day - 30 (31 May 2020 Sunday)
+-------------------------------
+
+*************
+Morning Batch
+*************
+
+1. Rahna I K
+2. Sneha Ravindran
+3. Surya S P
+4. Swathy K
+5. Suryamol T
+6. Sajina Narayanan
+7. Aishwariya U
+8. Amrutha A
+
+Noon Batch
+
+1. Amrutha K
+2. Vidya M G
+3. Sukanya K S
+4. Anjana K M
+5. Minooliya A
+6. Rohini K S
+7. Anujamol K
+8. Neethu K

@@ -18,9 +18,9 @@ def seatAlloter(list1, list2, list3):
     p = 0
     q = 0
     r = 0
-    for i in range(0, 4):
+    for i in range(0, 60):
         dayList = []
-        for j in range(0, 7):
+        for j in range(0, 8):
             if j % 3 == 0:
                 if p != len(list1):
                     dayList.append(list1[p])
@@ -47,16 +47,22 @@ def seatAlloter(list1, list2, list3):
 # Definition to store allotment output to a file
 def textFileOutput(data):
     file = open("./output/output.txt", 'w')
+    file.write("============================================\n")
     file.write("Call Centre Duty Allotment for JPHN Trainees\n")
+    file.write("============================================\n")
     date = datetime.datetime.now()
     sl = 1
     flag = 0
     for i in data:
         if (flag % 2 == 0):
             date += datetime.timedelta(days=1)
+            file.write("\n-------------------------------")
             file.write("\nDay - " + str(sl) +
-                       " (" + str(date.strftime("%d %B %Y %A")) + ")\n")
-            file.write("\nMorning Batch\n\n")
+                       " (" + str(date.strftime("%d %B %Y %A")) + ")")
+            file.write("\n-------------------------------\n")
+            file.write("\n*************")
+            file.write("\nMorning Batch")
+            file.write("\n*************\n\n")
             sl += 1
         else:
             file.write("\nNoon Batch\n\n")
