@@ -65,7 +65,9 @@ def textFileOutput(data):
             file.write("\n*************\n\n")
             sl += 1
         else:
-            file.write("\nNoon Batch\n\n")
+            file.write("\n*************")
+            file.write("\nNoon Batch")
+            file.write("\n*************\n\n")
         sl1 = 1
         for j in i:
             file.write(str(sl1) + ". " + str(j) + "\n")
